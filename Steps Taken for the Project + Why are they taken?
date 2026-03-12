@@ -1,0 +1,4 @@
+**Steps Taken for the Project**
+- **Step1: Get UV manager**
+- pip install uv 
+![Why uv manager not pip](images/.png)
